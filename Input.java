@@ -9,7 +9,9 @@ import java.util.ArrayList;
  * This class allows the user to manually check the input at specific times, 
  * rather than having to set up action listeners for key pressed and manage which are pressed themselves.
  * @author Joshua DeMoss
+ * 	messed with by Melinda
  */
+ 
 public class Input {
 
 	private static ArrayList<Integer> Keys;	// Integer representing the Keyboard ID of a key
